@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">ADBSee PoC Video Thumbnail</title>
+  <desc id="desc">Click to watch the ADBSee proof-of-concept video.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5eead4"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect x="24" y="24" width="1152" height="627" rx="20" fill="none" stroke="#1f2937" stroke-width="3"/>
+
+  <rect x="458" y="212" width="284" height="250" rx="48" fill="#030712" stroke="#374151" stroke-width="3"/>
+  <path d="M520 255 L620 337 L520 419" fill="none" stroke="url(#accent)" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="674" cy="418" r="28" fill="url(#accent)"/>
+
+  <circle cx="600" cy="338" r="88" fill="#000000" fill-opacity="0.35"/>
+  <circle cx="600" cy="338" r="80" fill="#000000" fill-opacity="0.45" stroke="#d1fae5" stroke-opacity="0.35"/>
+  <polygon points="574,292 574,384 648,338" fill="#ecfeff"/>
+
+  <text x="600" y="520" text-anchor="middle" fill="#ecfeff" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">ADBSee PoC Walkthrough</text>
+  <text x="600" y="565" text-anchor="middle" fill="#9ca3af" font-family="Segoe UI, Arial, sans-serif" font-size="30">Click to watch video on GitHub</text>
+</svg>
