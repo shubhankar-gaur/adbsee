@@ -13,17 +13,17 @@ Built on top of Tango ADB (`@yume-chan/adb` and related packages).
 <p align="center">
 	<a href="https://adbsee.shubhankargaur-xyz.workers.dev"><strong>Live Demo</strong></a>
 	&nbsp;|&nbsp;
-	<a href="https://github.com/user-attachments/assets/<After-Upload>"><strong>Watch PoC Video</strong></a>
+	<a href="https://github.com/user-attachments/assets/303b0fdb-ba94-49fa-bfb8-fb74d0a87af7"><strong>Watch PoC Video</strong></a>
 </p>
 
 ## Live Demo
 
 - Live app: https://adbsee.shubhankargaur-xyz.workers.dev
-- PoC walkthrough video [Watch / Download](https://github.com/user-attachments/assets/<After-Upload>)
+- PoC walkthrough video [Watch / Download](https://github.com/user-attachments/assets/303b0fdb-ba94-49fa-bfb8-fb74d0a87af7)
 
 ## PoC Video Preview
 
-[![Watch the ADBSee PoC video](./public/poc-thumbnail.svg)](https://github.com/user-attachments/assets/<After-Upload>)
+[![Watch the ADBSee PoC video](./public/poc-thumbnail.svg)](https://github.com/user-attachments/assets/303b0fdb-ba94-49fa-bfb8-fb74d0a87af7)
 
 
 ## Why ADBSee
